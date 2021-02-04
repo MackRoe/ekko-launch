@@ -1,5 +1,6 @@
 # Launch/Splash Page for Ekko messaging app
 
+Launch page is live on github pages: [http://mackroe.tech/ekko-launch/](Click Here to View)
 The Ekko repository can be found at [https://github.com/AcidicNic/Ekko](https://github.com/AcidicNic/Ekko)
 
 ## How to View
